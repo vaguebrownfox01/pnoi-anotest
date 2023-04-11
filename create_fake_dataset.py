@@ -68,7 +68,11 @@ def create_anotes(fpath):
             BREATH_LABELS_full_df = pd.concat([inc_df(n) for n in range(0, 4)])
 
             return BREATH_LABELS_full_df.to_csv(
-                fpath, columns=["start", "end", "label"], sep="\t", index=False
+                fpath,
+                columns=["start", "end", "label"],
+                sep="\t",
+                index=False,
+                header=None,
             )
 
         if "LBA_" in fpath:
@@ -91,7 +95,11 @@ def create_anotes(fpath):
                 _bb["label"] = f"bb{4}"
 
             return pd.DataFrame([_bb]).to_csv(
-                fpath, columns=["start", "end", "label"], sep="\t", index=False
+                fpath,
+                columns=["start", "end", "label"],
+                sep="\t",
+                index=False,
+                header=None,
             )
 
     if "PFT_" in fpath:
