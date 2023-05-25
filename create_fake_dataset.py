@@ -176,7 +176,7 @@ sub_files = [
 sub_files_df = pd.DataFrame([fn.split("-") for fn in sub_files])
 sub_files_df.columns = ["app_code", "sid", "class", "hs", "ext"]
 
-DATA = "./DATA"
+DATA = "./DUMMY_DATA"
 if os.path.exists(DATA):
     shutil.rmtree(DATA)
 
@@ -188,7 +188,7 @@ def sub_ids(N, sn=7):
     return [
         "_".join(
             [
-                "".join(random.choices(string.ascii_lowercase, k=sn)),
+                "".join(random.choices(string.ascii_lowercase, k=sn))+"dummy",
                 uuid.uuid4().hex[:8],
             ]
         )
