@@ -1,30 +1,30 @@
 subjectGender,subjectName,subjectAge,subject_ID,subjectType,subjectHeight,subjectWeight,META_file_path
-Male,Sagar Kumar ,25,sagarkumar_b77e6507,Control,165,84,/home/jeevan/Jeevan_K/Projects/Pnoi-phone/Pnoi_Corpus/PNOI_CORPUS_2023/DATA/pnoistor_dec01/sagarkumar_b77e6507/pnoistor_dec01-sagarkumar_b77e6507-META-bdbe-comnt.json
-Female,Vijaya Omkar,64,vijayaomkar_b866b679,Patient,153,59,/home/jeevan/Jeevan_K/Projects/Pnoi-phone/Pnoi_Corpus/PNOI_CORPUS_2023/DATA/pnoistor_dec01/vijayaomkar_b866b679/pnoistor_dec01-vijayaomkar_b866b679-META-db06-comnt.json
-Female,Sai Keerthana Arun,22,saikeerthanaarun_3364bc1a,Control,172,58,/home/jeevan/Jeevan_K/Projects/Pnoi-phone/Pnoi_Corpus/PNOI_CORPUS_2023/DATA/pnoistor_dec01/saikeerthanaarun_3364bc1a/pnoistor_dec01-saikeerthanaarun_3364bc1a-META-64fd-comnt.json
-Male,Kumar Chowdam,21,kumarchowdam_53f32e31,Control,162,60,/home/jeevan/Jeevan_K/Projects/Pnoi-phone/Pnoi_Corpus/PNOI_CORPUS_2023/DATA/pnoistor_dec01/kumarchowdam_53f32e31/pnoistor_dec01-kumarchowdam_53f32e31-META-84db-comnt.json
-Female,Sanna Shoukat,21,sannashoukat_5213fe84,Control,166,55,/home/jeevan/Jeevan_K/Projects/Pnoi-phone/Pnoi_Corpus/PNOI_CORPUS_2023/DATA/pnoistor_dec01/sannashoukat_5213fe84/pnoistor_dec01-sannashoukat_5213fe84-META-5cd5-comnt.json
-Female,Ray Niva,40,rayniva_f3e542e1,Patient,155,67,/home/jeevan/Jeevan_K/Projects/Pnoi-phone/Pnoi_Corpus/PNOI_CORPUS_2023/DATA/pnoistor_apr2023/rayniva_f3e542e1/pnoistor_apr2023-rayniva_f3e542e1-META-56eb-comnt.json
-Female,Anita Joby,22,anitajoby_8bf5d711,Patient,160,47,/home/jeevan/Jeevan_K/Projects/Pnoi-phone/Pnoi_Corpus/PNOI_CORPUS_2023/DATA/pnoistor_apr2023/anitajoby_8bf5d711/pnoistor_apr2023-anitajoby_8bf5d711-META-83a1-comnt.json
-Male,Sujata N,48,sujatan_bdd161b6,Patient,0,0,/home/jeevan/Jeevan_K/Projects/Pnoi-phone/Pnoi_Corpus/PNOI_CORPUS_2023/DATA/pnoistor_apr2023/sujatan_bdd161b6/pnoistor_apr2023-sujatan_bdd161b6-META-66b0-comnt.json
-Male,Roy Joseph,28,royjoseph_4136005e,Patient,75,172,/home/jeevan/Jeevan_K/Projects/Pnoi-phone/Pnoi_Corpus/PNOI_CORPUS_2023/DATA/pnoistor_apr2023/royjoseph_4136005e/pnoistor_apr2023-royjoseph_4136005e-META-c6ff-comnt.json
-Female,Kamakshi,68,kamakshi_e7a7aae6,Patient,148,56,/home/jeevan/Jeevan_K/Projects/Pnoi-phone/Pnoi_Corpus/PNOI_CORPUS_2023/DATA/pnoistor_apr2023/kamakshi_e7a7aae6/pnoistor_apr2023-kamakshi_e7a7aae6-META-036c-comnt.json
-Male,Nagaraju ,40,nagaraju_0b600fb0,Patient,168,72,/home/jeevan/Jeevan_K/Projects/Pnoi-phone/Pnoi_Corpus/PNOI_CORPUS_2023/DATA/pnoistor_apr2023/nagaraju_0b600fb0/pnoistor_apr2023-nagaraju_0b600fb0-META-151a-comnt.json
-Female,Sana Naushad,21,sananaushad_80e84b51,Control,158,60,/home/jeevan/Jeevan_K/Projects/Pnoi-phone/Pnoi_Corpus/PNOI_CORPUS_2023/DATA/pnoistor_feb2023/sananaushad_80e84b51/pnoistor_feb2023-sananaushad_80e84b51-META-b94e-comnt.json
-Female,Shreyam Gupta,19,shreyamgupta_78aa423a,Control,158,70,/home/jeevan/Jeevan_K/Projects/Pnoi-phone/Pnoi_Corpus/PNOI_CORPUS_2023/DATA/pnoistor_feb2023/shreyamgupta_78aa423a/pnoistor_feb2023-shreyamgupta_78aa423a-META-4edf-comnt.json
-Female,Oshin Saha,29,oshinsaha_357a6a6b,Patient,155,62,/home/jeevan/Jeevan_K/Projects/Pnoi-phone/Pnoi_Corpus/PNOI_CORPUS_2023/DATA/pnoistor_feb2023/oshinsaha_357a6a6b/pnoistor_feb2023-oshinsaha_357a6a6b-META-e55c-comnt.json
-Male,Darshan V Shettar,21,darshanvshettar_843c416b,Control,178,64,/home/jeevan/Jeevan_K/Projects/Pnoi-phone/Pnoi_Corpus/PNOI_CORPUS_2023/DATA/pnoistor_feb2023/darshanvshettar_843c416b/pnoistor_feb2023-darshanvshettar_843c416b-META-08c2-comnt.json
-Male,Atif ahmed,21,atifahmed_ebb5032c,Control,170,70,/home/jeevan/Jeevan_K/Projects/Pnoi-phone/Pnoi_Corpus/PNOI_CORPUS_2023/DATA/pnoistor_feb2023/atifahmed_ebb5032c/pnoistor_feb2023-atifahmed_ebb5032c-META-081d-comnt.json
-Male,Lokesh K,54,lokeshk_90b4871a,Patient,169,75,/home/jeevan/Jeevan_K/Projects/Pnoi-phone/Pnoi_Corpus/PNOI_CORPUS_2023/DATA/pnoistor_feb2023/lokeshk_90b4871a/pnoistor_feb2023-lokeshk_90b4871a-META-83df-comnt.json
-Female,Sharmistha Chakrabarti,42,sharmisthachakrabarti_80531fda,Control,150,57,/home/jeevan/Jeevan_K/Projects/Pnoi-phone/Pnoi_Corpus/PNOI_CORPUS_2023/DATA/pnoistor_oct07/sharmisthachakrabarti_80531fda/pnoistor_oct07-sharmisthachakrabarti_80531fda-META-61c2-comnt.json
-Male,Amartyaveer,22,amartyaveer_81b8f33c,Control,182,57,/home/jeevan/Jeevan_K/Projects/Pnoi-phone/Pnoi_Corpus/PNOI_CORPUS_2023/DATA/pnoistor_oct07/amartyaveer_81b8f33c/pnoistor_oct07-amartyaveer_81b8f33c-META-ede6-comnt.json
-Male,Rahul Kumar,29,rahulkumar_710a4b74,Patient,174,80,/home/jeevan/Jeevan_K/Projects/Pnoi-phone/Pnoi_Corpus/PNOI_CORPUS_2023/DATA/pnoistor_oct07/rahulkumar_710a4b74/pnoistor_oct07-rahulkumar_710a4b74-META-c78d-comnt.json
-Male,Jesuraja Bandekar,24,jesurajabandekar_7273cc8f,Control,173,74,/home/jeevan/Jeevan_K/Projects/Pnoi-phone/Pnoi_Corpus/PNOI_CORPUS_2023/DATA/pnoistor_oct07/jesurajabandekar_7273cc8f/pnoistor_oct07-jesurajabandekar_7273cc8f-META-9402-comnt.json
-Male,Murali Kadambi,39,muralikadambi_3895019a,Control,178,70,/home/jeevan/Jeevan_K/Projects/Pnoi-phone/Pnoi_Corpus/PNOI_CORPUS_2023/DATA/pnoistor_oct07/muralikadambi_3895019a/pnoistor_oct07-muralikadambi_3895019a-META-c286-comnt.json
-Female,Nanjazhaki G,46,nanjazhakig_7876351b,Patient,143,60,/home/jeevan/Jeevan_K/Projects/Pnoi-phone/Pnoi_Corpus/PNOI_CORPUS_2023/DATA/pnoistor_oct07/nanjazhakig_7876351b/pnoistor_oct07-nanjazhakig_7876351b-META-1ad3-comnt.json
-Male,John Kiran Borugada,21,johnkiranborugada_e390538c,Control,172,70,/home/jeevan/Jeevan_K/Projects/Pnoi-phone/Pnoi_Corpus/PNOI_CORPUS_2023/DATA/pnoistor_oct07/johnkiranborugada_e390538c/pnoistor_oct07-johnkiranborugada_e390538c-META-628f-comnt.json
-Male,Saurabh Kumar,24,saurabhkumar_92bef9b7,Control,165,65,/home/jeevan/Jeevan_K/Projects/Pnoi-phone/Pnoi_Corpus/PNOI_CORPUS_2023/DATA/pnoistor_oct07/saurabhkumar_92bef9b7/pnoistor_oct07-saurabhkumar_92bef9b7-META-5767-comnt.json
-Male,Mohammad Roshan,30,mohammadroshan_269b6326,Patient,170,67,/home/jeevan/Jeevan_K/Projects/Pnoi-phone/Pnoi_Corpus/PNOI_CORPUS_2023/DATA/pnoistor_may2023/mohammadroshan_269b6326/pnoistor_may2023-mohammadroshan_269b6326-META-19f9-comnt.json
-Female,Shivaganga,41,shivaganga_46c140d9,Patient,150,56,/home/jeevan/Jeevan_K/Projects/Pnoi-phone/Pnoi_Corpus/PNOI_CORPUS_2023/DATA/pnoistor_may2023/shivaganga_46c140d9/pnoistor_may2023-shivaganga_46c140d9-META-b597-comnt.json
-Female,Sagayamary,65,sagayamary_258e8be2,Patient,154,66,/home/jeevan/Jeevan_K/Projects/Pnoi-phone/Pnoi_Corpus/PNOI_CORPUS_2023/DATA/pnoistor_may2023/sagayamary_258e8be2/pnoistor_may2023-sagayamary_258e8be2-META-102a-comnt.json
-Female,Valli,33,valli_82ee8284,Patient,149,42,/home/jeevan/Jeevan_K/Projects/Pnoi-phone/Pnoi_Corpus/PNOI_CORPUS_2023/DATA/pnoistor_may2023/valli_82ee8284/pnoistor_may2023-valli_82ee8284-META-18a6-comnt.json
+Male,Sagar Kumar ,25,sagarkumar_b77e6507,Control,165,84,../../DATA/pnoistor_dec01/sagarkumar_b77e6507/pnoistor_dec01-sagarkumar_b77e6507-META-bdbe-comnt.json
+Female,Vijaya Omkar,64,vijayaomkar_b866b679,Patient,153,59,../../DATA/pnoistor_dec01/vijayaomkar_b866b679/pnoistor_dec01-vijayaomkar_b866b679-META-db06-comnt.json
+Female,Sai Keerthana Arun,22,saikeerthanaarun_3364bc1a,Control,172,58,../../DATA/pnoistor_dec01/saikeerthanaarun_3364bc1a/pnoistor_dec01-saikeerthanaarun_3364bc1a-META-64fd-comnt.json
+Male,Kumar Chowdam,21,kumarchowdam_53f32e31,Control,162,60,../../DATA/pnoistor_dec01/kumarchowdam_53f32e31/pnoistor_dec01-kumarchowdam_53f32e31-META-84db-comnt.json
+Female,Sanna Shoukat,21,sannashoukat_5213fe84,Control,166,55,../../DATA/pnoistor_dec01/sannashoukat_5213fe84/pnoistor_dec01-sannashoukat_5213fe84-META-5cd5-comnt.json
+Female,Ray Niva,40,rayniva_f3e542e1,Patient,155,67,../../DATA/pnoistor_apr2023/rayniva_f3e542e1/pnoistor_apr2023-rayniva_f3e542e1-META-56eb-comnt.json
+Female,Anita Joby,22,anitajoby_8bf5d711,Patient,160,47,../../DATA/pnoistor_apr2023/anitajoby_8bf5d711/pnoistor_apr2023-anitajoby_8bf5d711-META-83a1-comnt.json
+Male,Sujata N,48,sujatan_bdd161b6,Patient,0,0,../../DATA/pnoistor_apr2023/sujatan_bdd161b6/pnoistor_apr2023-sujatan_bdd161b6-META-66b0-comnt.json
+Male,Roy Joseph,28,royjoseph_4136005e,Patient,75,172,../../DATA/pnoistor_apr2023/royjoseph_4136005e/pnoistor_apr2023-royjoseph_4136005e-META-c6ff-comnt.json
+Female,Kamakshi,68,kamakshi_e7a7aae6,Patient,148,56,../../DATA/pnoistor_apr2023/kamakshi_e7a7aae6/pnoistor_apr2023-kamakshi_e7a7aae6-META-036c-comnt.json
+Male,Nagaraju ,40,nagaraju_0b600fb0,Patient,168,72,../../DATA/pnoistor_apr2023/nagaraju_0b600fb0/pnoistor_apr2023-nagaraju_0b600fb0-META-151a-comnt.json
+Female,Sana Naushad,21,sananaushad_80e84b51,Control,158,60,../../DATA/pnoistor_feb2023/sananaushad_80e84b51/pnoistor_feb2023-sananaushad_80e84b51-META-b94e-comnt.json
+Female,Shreyam Gupta,19,shreyamgupta_78aa423a,Control,158,70,../../DATA/pnoistor_feb2023/shreyamgupta_78aa423a/pnoistor_feb2023-shreyamgupta_78aa423a-META-4edf-comnt.json
+Female,Oshin Saha,29,oshinsaha_357a6a6b,Patient,155,62,../../DATA/pnoistor_feb2023/oshinsaha_357a6a6b/pnoistor_feb2023-oshinsaha_357a6a6b-META-e55c-comnt.json
+Male,Darshan V Shettar,21,darshanvshettar_843c416b,Control,178,64,../../DATA/pnoistor_feb2023/darshanvshettar_843c416b/pnoistor_feb2023-darshanvshettar_843c416b-META-08c2-comnt.json
+Male,Atif ahmed,21,atifahmed_ebb5032c,Control,170,70,../../DATA/pnoistor_feb2023/atifahmed_ebb5032c/pnoistor_feb2023-atifahmed_ebb5032c-META-081d-comnt.json
+Male,Lokesh K,54,lokeshk_90b4871a,Patient,169,75,../../DATA/pnoistor_feb2023/lokeshk_90b4871a/pnoistor_feb2023-lokeshk_90b4871a-META-83df-comnt.json
+Female,Sharmistha Chakrabarti,42,sharmisthachakrabarti_80531fda,Control,150,57,../../DATA/pnoistor_oct07/sharmisthachakrabarti_80531fda/pnoistor_oct07-sharmisthachakrabarti_80531fda-META-61c2-comnt.json
+Male,Amartyaveer,22,amartyaveer_81b8f33c,Control,182,57,../../DATA/pnoistor_oct07/amartyaveer_81b8f33c/pnoistor_oct07-amartyaveer_81b8f33c-META-ede6-comnt.json
+Male,Rahul Kumar,29,rahulkumar_710a4b74,Patient,174,80,../../DATA/pnoistor_oct07/rahulkumar_710a4b74/pnoistor_oct07-rahulkumar_710a4b74-META-c78d-comnt.json
+Male,Jesuraja Bandekar,24,jesurajabandekar_7273cc8f,Control,173,74,../../DATA/pnoistor_oct07/jesurajabandekar_7273cc8f/pnoistor_oct07-jesurajabandekar_7273cc8f-META-9402-comnt.json
+Male,Murali Kadambi,39,muralikadambi_3895019a,Control,178,70,../../DATA/pnoistor_oct07/muralikadambi_3895019a/pnoistor_oct07-muralikadambi_3895019a-META-c286-comnt.json
+Female,Nanjazhaki G,46,nanjazhakig_7876351b,Patient,143,60,../../DATA/pnoistor_oct07/nanjazhakig_7876351b/pnoistor_oct07-nanjazhakig_7876351b-META-1ad3-comnt.json
+Male,John Kiran Borugada,21,johnkiranborugada_e390538c,Control,172,70,../../DATA/pnoistor_oct07/johnkiranborugada_e390538c/pnoistor_oct07-johnkiranborugada_e390538c-META-628f-comnt.json
+Male,Saurabh Kumar,24,saurabhkumar_92bef9b7,Control,165,65,../../DATA/pnoistor_oct07/saurabhkumar_92bef9b7/pnoistor_oct07-saurabhkumar_92bef9b7-META-5767-comnt.json
+Male,Mohammad Roshan,30,mohammadroshan_269b6326,Patient,170,67,../../DATA/pnoistor_may2023/mohammadroshan_269b6326/pnoistor_may2023-mohammadroshan_269b6326-META-19f9-comnt.json
+Female,Shivaganga,41,shivaganga_46c140d9,Patient,150,56,../../DATA/pnoistor_may2023/shivaganga_46c140d9/pnoistor_may2023-shivaganga_46c140d9-META-b597-comnt.json
+Female,Sagayamary,65,sagayamary_258e8be2,Patient,154,66,../../DATA/pnoistor_may2023/sagayamary_258e8be2/pnoistor_may2023-sagayamary_258e8be2-META-102a-comnt.json
+Female,Valli,33,valli_82ee8284,Patient,149,42,../../DATA/pnoistor_may2023/valli_82ee8284/pnoistor_may2023-valli_82ee8284-META-18a6-comnt.json
