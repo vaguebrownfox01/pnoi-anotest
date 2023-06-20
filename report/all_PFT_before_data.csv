@@ -1,2 +1,2 @@
-FEV1_ref_before,FVC_ref_before,ratio_ref_before,FEV1_val_before,FVC_val_before,ratio_val_before,PFT_before_file_path,subject_ID
-2.63,3.13,84,3.13,3.4,92,DATA/pnoistor_apr2023/anitajoby_8bf5d711/pnoistor_apr2023-anitajoby_8bf5d711-PFT_before-7782-comnt.tsv,anitajoby_8bf5d711
+FEV1_ref_before,FVC_ref_before,ratio_ref_before,FEV1_val_before,FVC_val_before,ratio_val_before,PFT_before_file_path,subject-ID
+2.63,3.13,84,3.13,3.4,92,DATA_/pnoistor_apr2023/anitajoby_8bf5d711/pnoistor_apr2023-anitajoby_8bf5d711-PFT_before-7782-comnt.tsv,anitajoby_8bf5d711
